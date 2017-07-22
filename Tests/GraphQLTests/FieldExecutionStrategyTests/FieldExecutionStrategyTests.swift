@@ -280,7 +280,7 @@ extension FieldExecutionStrategyTests {
             ("testConcurrentDispatchFieldExecutionStrategyWithSingleField", testConcurrentDispatchFieldExecutionStrategyWithSingleField),
             ("testConcurrentDispatchFieldExecutionStrategyWithSingleFieldError", testConcurrentDispatchFieldExecutionStrategyWithSingleFieldError),
 //            ("testConcurrentDispatchFieldExecutionStrategyWithMultipleFields", testConcurrentDispatchFieldExecutionStrategyWithMultipleFields),
-//            ("testConcurrentDispatchFieldExecutionStrategyWithMultipleFieldErrors", testConcurrentDispatchFieldExecutionStrategyWithMultipleFieldErrors),
+            ("testConcurrentDispatchFieldExecutionStrategyWithMultipleFieldErrors", testConcurrentDispatchFieldExecutionStrategyWithMultipleFieldErrors),
         ]
     }
 }
